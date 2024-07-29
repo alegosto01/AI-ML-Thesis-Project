@@ -1,4 +1,3 @@
-```markdown
 # AI-based HER2 Scoring for Breast Cancer Diagnosis
 
 This repository contains the code and saved models of my thesis project on improving the accuracy and efficiency of diagnosing human epidermal growth factor receptor 2 (HER2) status in breast cancer patients using artificial intelligence and machine learning.

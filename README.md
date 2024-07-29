@@ -30,7 +30,7 @@ in HER2 assessment is proposed in this research.
 
 ## Repository Contents
 
-- **Code**: In the repository are available some of the notebooks that i'm working on.
+- **Code**: In the repository are available some of the Jupiter notebooks that i'm working on.
 
 
 ## Results
